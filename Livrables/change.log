@@ -1,0 +1,73 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [1.0.0] - 2019-03-04
+### Added
+-Help menu :Displayable via the help buton on the menu screen: Allow to see the game purpose, the game command list and the credit.
+-Toast : Varius toast now appears during the used of the app.
+-Game screen : Collectible now spawn randomly on the map, incrasing score with each take.
+-Game screen : A cashier now spawn on the top of the map, hit her to complete the game.
+
+
+### Changed
+-GameOverScreen, HightScoreScreen and LowScoreScreen : now properly display the score. 
+-All screens : now have a return or a restart button and the interface work well on a variety of screen size.
+-Game screen : Granny spawn properly on an empty case, camera and hitboxes has got a general improvement.
+-Game screen : Action Button does nothing... for now, we will add some gameplay features in the future.
+-Profile screen : The screen get a reskin and work better.
+-Score screen : now properly display score of your profile and all profile played on the phone. The score is now properly calculed taking into account dificulty and collectibles.
+-Option screen : now charge precedent user parameter's like profile, music/noize volume and difficulty.
+
+### Removed
+-Option screen : the bottom located timmer is removed for not having any purpose.
+-Profile screen : Password is removed for not having any purpose.
+-Music assets: some unused music/noise where removed.
+
+## [Unreleased]
+### Add
+- Items to collect
+- Seller
+
+### Changed
+- Physics for player to optimize : invisible walls appears randomly.
+
+## [0.9.0] - 2019-03-01
+### Added
+- Game management : Adds the countdown and the score. Adds the game over screen if score is under the minimal score. Adds the highscore screen if score is a high score
+ - High scores screen : Displays the Highest scores of the player, or the higest scores of all players who uses this phone
+- Difficulty : Set up all the values (minimal score, maximum time, score per collectable)
+- SQLite : Adds a table with the 10th higest scores realized in this phone, with his owner
+
+
+
+### Changed
+- Camera movements are character based instead of screen based
+- Game Screen : Adds UI for countdown and score. Adds a return button which allows to reset the game and enter to main menu
+- Enable physics for obstacles
+- Add Shelfs to the map 
+- UI improvements for a better integration in devices with differents sizes/ratios
+- Music improvements : correct music should be used for each situation. 
+
+### Removed
+
+
+## [0.8.0] - 2019-02-28
+### Added
+- Option menu : Displayable via the main menu (icon on the rigth top corner) : Allows to set music and sound volume, and the difficulty level
+- User menu : Displayable via the main menu (icon on the left top corner) : Allows to set/change Player's name. this data is used in the database for the high scores
+- Return link for all screens, that allows to return to main screen
+- UI for game screen : arrows for movements, action button and pause button
+
+
+### Changed
+- Camera movements are character based instead of screen based
+- Movements based on UI input instead of keyborard
+- Android App icon 
+- Better management of screen changes : Music management and no leaks
+
+### Removed
+
+

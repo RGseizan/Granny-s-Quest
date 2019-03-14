@@ -1,0 +1,180 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+parametre
+  rotate: false
+  xy: 1, 309
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+profil
+  rotate: false
+  xy: 1, 115
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+profil_jaune
+  rotate: false
+  xy: 195, 309
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+blanc_higscore
+  rotate: false
+  xy: 389, 433
+  size: 265, 68
+  orig: 265, 68
+  offset: 0, 0
+  index: -1
+higscore
+  rotate: false
+  xy: 389, 363
+  size: 265, 68
+  orig: 265, 68
+  offset: 0, 0
+  index: -1
+jaune_higscore
+  rotate: false
+  xy: 656, 433
+  size: 265, 68
+  orig: 265, 68
+  offset: 0, 0
+  index: -1
+jaune_help
+  rotate: false
+  xy: 656, 363
+  size: 212, 68
+  orig: 212, 68
+  offset: 0, 0
+  index: -1
+jaune_play
+  rotate: false
+  xy: 389, 293
+  size: 212, 68
+  orig: 212, 68
+  offset: 0, 0
+  index: -1
+buton_left
+  rotate: false
+  xy: 195, 179
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+blanc_exit
+  rotate: false
+  xy: 1, 45
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+jaune_exit
+  rotate: false
+  xy: 603, 293
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+buton_left_pressed
+  rotate: false
+  xy: 195, 49
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+buton_right
+  rotate: false
+  xy: 325, 163
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+buton_right_pressed
+  rotate: false
+  xy: 455, 163
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+new_player
+  rotate: false
+  xy: 1, 23
+  size: 148, 20
+  orig: 148, 20
+  offset: 0, 0
+  index: -1
+new_player_jaune
+  rotate: false
+  xy: 325, 141
+  size: 148, 20
+  orig: 148, 20
+  offset: 0, 0
+  index: -1
+restart
+  rotate: false
+  xy: 585, 251
+  size: 113, 40
+  orig: 113, 40
+  offset: 0, 0
+  index: -1
+valider
+  rotate: false
+  xy: 1, 1
+  size: 109, 20
+  orig: 109, 20
+  offset: 0, 0
+  index: -1
+valider_jaune
+  rotate: false
+  xy: 325, 119
+  size: 109, 20
+  orig: 109, 20
+  offset: 0, 0
+  index: -1
+retour
+  rotate: false
+  xy: 923, 481
+  size: 94, 20
+  orig: 94, 20
+  offset: 0, 0
+  index: -1
+retour_jaune
+  rotate: false
+  xy: 475, 141
+  size: 94, 20
+  orig: 94, 20
+  offset: 0, 0
+  index: -1
+blanc_help
+  rotate: false
+  xy: 781, 341
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+blanc_play
+  rotate: false
+  xy: 585, 229
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+switch
+  rotate: false
+  xy: 870, 411
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+switch_jaune
+  rotate: false
+  xy: 700, 271
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1

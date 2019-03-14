@@ -1,0 +1,103 @@
+
+joystick.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 115
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+action_red
+  rotate: false
+  xy: 1, 1
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 126, 115
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+back_red
+  rotate: false
+  xy: 126, 1
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 251, 115
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+pause_red
+  rotate: false
+  xy: 251, 1
+  size: 123, 112
+  orig: 123, 112
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 376, 136
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+left_red
+  rotate: false
+  xy: 376, 43
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 468, 137
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+right_red
+  rotate: false
+  xy: 468, 45
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 561, 137
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+up_red
+  rotate: false
+  xy: 561, 45
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 654, 137
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+down_red
+  rotate: false
+  xy: 654, 45
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
